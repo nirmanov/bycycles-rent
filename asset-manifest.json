@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bicycles-rent/static/css/main.a76cb1b0.css",
+    "main.js": "/bicycles-rent/static/js/main.8292362c.js",
+    "static/media/bg.jpg": "/bicycles-rent/static/media/bg.fc0df2f64700da9ceefb.jpg",
+    "index.html": "/bicycles-rent/index.html",
+    "main.a76cb1b0.css.map": "/bicycles-rent/static/css/main.a76cb1b0.css.map",
+    "main.8292362c.js.map": "/bicycles-rent/static/js/main.8292362c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a76cb1b0.css",
+    "static/js/main.8292362c.js"
+  ]
+}
