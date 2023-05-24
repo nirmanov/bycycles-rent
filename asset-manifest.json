@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bycycles-rent/static/css/main.d679c511.css",
-    "main.js": "/bycycles-rent/static/js/main.8417fc49.js",
+    "main.js": "/bycycles-rent/static/js/main.c3857400.js",
     "static/media/bg.jpg": "/bycycles-rent/static/media/bg.fc0df2f64700da9ceefb.jpg",
     "index.html": "/bycycles-rent/index.html",
     "main.d679c511.css.map": "/bycycles-rent/static/css/main.d679c511.css.map",
-    "main.8417fc49.js.map": "/bycycles-rent/static/js/main.8417fc49.js.map"
+    "main.c3857400.js.map": "/bycycles-rent/static/js/main.c3857400.js.map"
   },
   "entrypoints": [
     "static/css/main.d679c511.css",
-    "static/js/main.8417fc49.js"
+    "static/js/main.c3857400.js"
   ]
 }
