@@ -9,7 +9,7 @@
 ClientId для регистрации
 b822e425-8905-489b-928a-02b290b2cda2
 
-Проект доступен по ссылке
+Проект доступен по ссылке https://nirmanov.github.io/bycycles-rent/
 
 ![Image](https://github.com/nirmanov/bycycles-rent/raw/master/pic/4.png)
 
