@@ -1,0 +1,43 @@
+.inputGroup {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.label {
+  margin-bottom: 5px;
+}
+
+.input {
+  padding: 4px 5px;
+  border-radius: 5px;
+  border: 1px solid #000000;
+}
+
+[disabled] {
+  cursor: not-allowed;
+}
+
+.select {
+  padding: 4px 5px;
+  border-radius: 5px;
+  border: 1px solid #000000;
+}
+
+.inputDate {
+  padding: 4px 5px;
+  border-radius: 5px;
+  border: 1px solid #000000;
+}
+
+.button {
+  padding: 5px 7px;
+  border: none;
+  border-radius: 5px;
+  color: #FFFFFF;
+  cursor: pointer;
+  background-color: #3c1491;
+}
+.button:hover {
+  background-color: #7a6c98;
+}

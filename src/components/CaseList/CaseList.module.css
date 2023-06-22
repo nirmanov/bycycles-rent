@@ -1,0 +1,38 @@
+.casesWrapper {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+}
+
+.gridTable thead tr {
+  text-align: left;
+  
+}
+
+@media screen and (max-width: 800px) {
+  table.gridTable {
+    width: 100%;
+  }
+  table.gridTable thead {
+    display: none;
+  }
+  table.gridTable tr {
+    display: block;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #e8e9eb;
+  }
+  table.gridTable td {
+    display: block;
+    text-align: right;
+    min-height: 22px;
+    margin-bottom: 10px;
+  }
+
+  table.gridTable td:before {
+    content: attr(aria-label);
+    float: left;
+    font-weight: bold;
+  }
+}

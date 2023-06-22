@@ -1,0 +1,15 @@
+.signUpWrapper {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+}
+
+.signUpForm {
+  max-width: 600px;
+}
+
+.errorMessage {
+  color: red;
+}

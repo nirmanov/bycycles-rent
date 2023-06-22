@@ -1,0 +1,43 @@
+.authModal {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.authWrapper {
+  position: relative;
+  max-width: 260px;
+  width: 100%;
+  padding: 20px;
+  border: 1px solid blue;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+
+.title {
+  text-align: center;
+}
+
+.closeBtn {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  cursor: pointer;
+}
+
+.errorMessage {
+  color: red;
+}
+
+.regLink {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
