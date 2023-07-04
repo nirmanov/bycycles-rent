@@ -7,7 +7,9 @@
 Клиентская часть выполнена c использованием React.
 
 Для доступа можно использоать:
+
 Login: guest@user.com
+
 Password: password
 
 Проект доступен по ссылке https://nirmanov.github.io/bycycles-rent/
