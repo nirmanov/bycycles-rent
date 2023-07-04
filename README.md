@@ -6,8 +6,9 @@
 
 Клиентская часть выполнена c использованием React.
 
-ClientId для регистрации
-b822e425-8905-489b-928a-02b290b2cda2
+Для доступа можно использоать:
+Login: guest@user.com
+Password: password
 
 Проект доступен по ссылке https://nirmanov.github.io/bycycles-rent/
 
